@@ -28,7 +28,6 @@ npm install
 ### Start the development server:
  npm start
 
-Open your browser and navigate to http://localhost:3000
 
 Responsive Design
 The dashboard is designed to be responsive across different screen sizes:
