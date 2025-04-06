@@ -16,45 +16,6 @@ Upcoming appointments display
 Recent patients display
 Mobile-first design principles
 
-Project Structure
-Copymedical-dashboard/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── assets/
-│   │   └── images/
-│   ├── components/
-│   │   ├── layout/
-│   │   │   ├── Header.jsx
-│   │   │   ├── Sidebar.jsx
-│   │   │   └── Layout.jsx
-│   │   ├── dashboard/
-│   │   │   ├── StatCard.jsx
-│   │   │   ├── AppointmentItem.jsx
-│   │   │   ├── PatientItem.jsx
-│   │   │   ├── AppointmentList.jsx
-│   │   │   └── PatientList.jsx
-│   │   └── ui/
-│   │       ├── Button.jsx
-│   │       └── Card.jsx
-│   ├── pages/
-│   │   └── Dashboard.jsx
-│   ├── data/
-│   │   └── mockData.js
-│   ├── styles/
-│   │   ├── global.css
-│   │   ├── variables.css
-│   │   └── components/
-│   │       ├── sidebar.css
-│   │       ├── header.css
-│   │       └── dashboard.css
-│   ├── App.jsx
-│   ├── index.js
-│   └── index.css
-├── package.json
-└── README.md
-
 ### Prerequisites
 
 Node.js 16 or higher
